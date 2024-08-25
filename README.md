@@ -92,7 +92,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## Licença
 
 Este projeto está licenciado sob a [Licença MIT](LICENSE).
-
-## Contato
-
-Para mais informações, entre em contato com [seuemail@dominio.com](mailto:seuemail@dominio.com).
