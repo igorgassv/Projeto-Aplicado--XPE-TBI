@@ -19,34 +19,19 @@ Projeto-Aplicado-TBI/
 ├── README.md                      # Descrição do projeto
 ├── docs/                          # Documentação e recursos visuais
 │   ├── Relatorio_Projeto_Aplicado.pdf
-│   ├── CANVAS_Projeto.png
-│   ├── Matriz_CSD.png
-│   ├── Matriz_BASICO.png
-│   ├── Backlog_Trello.png
-│   └── Outros_Graficos/
-│       ├── Grafico_Hospitalizacoes_Ano.png
-│       ├── Numero_Mortes_vs_Hospitalizacoes.png
-│       └── Analise_Cosinor_Animal7.png
+
 │
 ├── notebooks/                     # Notebooks Jupyter com análises e modelos
-│   ├── Sprint1_AnaliseExploratoria.ipynb
-│   ├── Sprint2_ModelagemCircadiana.ipynb
-│   └── Sprint3_VisualizacaoDados.ipynb
+│   ├── Sprint1.ipynb
+│   ├── Sprint2.ipynb
+│   └── Sprint3.ipynb
 │
 └── src/                           # Código-fonte dos scripts Python
-    ├── pre_processamento_dados.py
-    ├── dashboard_visualizacao.py
-    └── modelagem_cosinor.py
+    ├── Stream_ShamTBIdata.py
+
 ```
 
-### Documentação
 
-- **Relatorio_Projeto_Aplicado.pdf**: Documento completo do projeto aplicado, contendo todo o contexto, metodologia, resultados e considerações finais.
-- **CANVAS_Projeto.png**: Representação visual do CANVAS do projeto, destacando o desafio, solução, benefícios e justificativas.
-- **Matriz_CSD.png**: Matriz Certezas, Suposições e Dúvidas (CSD) utilizada para análise do contexto do problema.
-- **Matriz_BASICO.png**: Matriz de priorização BASICO, detalhando as ideias e suas respectivas avaliações.
-- **Backlog_Trello.png**: Imagem do backlog de produto gerenciado no Trello.
-- **Outros_Graficos/**: Contém gráficos gerados durante as análises e modelagens, como hospitalizações por ano, mortes vs hospitalizações, e análise de Cosinor.
 
 ### Notebooks
 
@@ -64,12 +49,12 @@ Projeto-Aplicado-TBI/
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seuusuario/Projeto-Aplicado-TBI.git
+   git clone https://github.com/igorgassv/Projeto-Aplicado--XPE-TBI.git
    ```
 
 2. Navegue até o diretório do projeto:
    ```bash
-   cd Projeto-Aplicado-TBI
+   cd Projeto-Aplicado--XPE-TBI
    ```
 
 3. Crie um ambiente virtual e ative-o:
