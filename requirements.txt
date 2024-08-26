@@ -1,0 +1,11 @@
+pandas
+matplotlib
+seaborn
+numpy
+scipy
+seaborn
+xlrd
+openpyxl
+pillow
+statsmodels
+xlsxwriter
