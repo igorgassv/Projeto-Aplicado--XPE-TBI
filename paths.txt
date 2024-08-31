@@ -1,0 +1,2 @@
+metadata_path=/home/coldrand/pyTBI-data/data/TBI_experiment/metadata.csv
+folder_path=/home/coldrand/pyTBI-data/data/TBI_experiment/15min/
